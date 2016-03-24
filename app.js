@@ -1,3 +1,5 @@
+//By Travis Ingram  -  20160323
+
 var pauses = ["ahhhh", "ummmm", "sooo"];
 
 var eloquent = function(arg) {
