@@ -1,8 +1,8 @@
-###Git Repository Challenge###
+### Git Repository Challenge
 
 This challenge is intended as a review of Git and introduce the basics of the command line.
 
-####Components####
+#### Components
 
 This challenge is comprised of five basic components.
 
